@@ -135,3 +135,17 @@ opacity: 1;
 	text-align: center;
 	margin-left: -100px;
 }
+.table{
+	width:97%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	border-radius:40px;
+	-webkit-box-shodow:0px 0px 28px 0px rgba(0,0,0,0.38) inset;
+	-moz-box-shodow:0px 0px 28px 0px rgba(0,0,0,0.38) inset;
+	box-shodow:0px 0px 28px 0px rgba(0,0,0,0.38) inset;
+	background-color: rgb(139, 0, 139)
+
+
+
+	
